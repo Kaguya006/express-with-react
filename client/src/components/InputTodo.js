@@ -1,7 +1,7 @@
 import { React, Fragment, useState } from 'react';
 
 const InputTodo = () => {
-  const [description, setDescription] = useState("aiueo");
+  const [description, setDescription] = useState("");
 
   const handleAddClick = async(e) => {
     e.preventDefault();
