@@ -10,4 +10,5 @@ This repository is intended as a basic boilerplate with the following features.
 - delete todo
 - edit todo
 
+# Image
 ![](images/React_App.png)
