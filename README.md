@@ -9,3 +9,5 @@ This repository is intended as a basic boilerplate with the following features.
 - add todo
 - delete todo
 - edit todo
+
+![](images/React_APP.png)
